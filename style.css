@@ -1,0 +1,53 @@
+*{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: hsl(185, 75%, 39%);
+    background-image: url(https://res.cloudinary.com/lau2401/image/upload/v1682612900/bg-pattern-bottom_xd5zrw.svg);
+}
+.fondo-encabezado{
+    background-image: url(https://res.cloudinary.com/lau2401/image/upload/v1682612900/bg-pattern-card_fchp5g.svg);
+     width: 350px;
+     height: 150px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+img{
+    width: 100px;
+    border-radius: 50px;
+
+}
+section{
+    background-color: white;
+    width: 350px;
+    position: relative;
+
+    border-radius: 50px;
+    border: 5px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -60px;
+    width: 90px;
+
+
+}
+
+border-radius: 50px;
+  border: 5px solid white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -60px;
+  width: 90px;
